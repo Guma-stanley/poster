@@ -1,2 +1,2 @@
 # poster
-A poster designed used html and CSS
+A poster designed using html and CSS
